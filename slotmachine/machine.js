@@ -6,7 +6,7 @@ function showPrice() {
 };
 
 function slot() {
-  return Math.floor(Math.random() *9);
+  return Math.floor(Math.random() *10);
 };
 
 const button = document.querySelector("#btn");
